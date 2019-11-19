@@ -1,0 +1,7 @@
+{
+	"description" : "Php 7",
+	"name" : "Php 7",
+	"require": {
+		"php": ">=5.2.4"
+	},
+}
